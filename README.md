@@ -10,4 +10,7 @@ Contiene archivos simples para que puedas practicar creación de ramas, commits,
 
 
 
-# estamos simulando un error aca
+# Error solucionado
+
+
+
